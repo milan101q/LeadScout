@@ -1,0 +1,5 @@
+{
+  "name": "LeadScout",
+  "description": "A lead generation tool that discovers small businesses on Google Maps based on specific criteria like ratings and location.",
+  "requestFramePermissions": []
+}
